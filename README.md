@@ -27,3 +27,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ```Using: Vue-Bootstrap```
 
 ```Project: Caravan - Origamid (Vue.JS)```# vue-caravan
+
+```By: Hamilton Gabriel```
